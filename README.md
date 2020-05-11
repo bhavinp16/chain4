@@ -1,2 +1,2 @@
 # chain4
-Practice project on DOM and jquery
+Game project on DOM and jquery
